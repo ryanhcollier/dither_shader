@@ -1,0 +1,27 @@
+# Blender auto-save and backup files
+*.blend1
+*.blend2
+*.blend@
+*.bphys
+*.crash.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary renders and logs
+tmp/
+scratch/
+*.log
